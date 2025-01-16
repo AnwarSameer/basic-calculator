@@ -8,3 +8,4 @@ multiplication
 division
 exponential
 square root
+and making a loop with while function untill needed to exit
