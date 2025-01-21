@@ -1,6 +1,7 @@
 # basic-calculator
-Basic calculator my first project
+Basic calculator 
 First project of building basic calculator
+using python
 with airthematic functions like
 addition
 subtraction
